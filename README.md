@@ -19,11 +19,7 @@ This page includes:
 
 - HTML
 - Tailwind CSS (CDN)
-
-## 🖼️ Screenshots
-
-(Add screenshot images here if you want)
-
+  
 ## 🧪 How to Run
 
 1. Clone the repository
